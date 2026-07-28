@@ -1,4 +1,4 @@
-# Text-SQLLLMUsingOpenAIAndAWS
+# Text-SQL LLM
 <H2><B> Title </B></H2> Build and Deploy Text-2-SQL LLM Using OpenAI and AWS
 
 <H2><B> Description </B></H2> The aim of the SQLGenPro project is to develop a Streamlit-based web application that utilizes Large Language Models (LLMs) to convert natural language queries into optimized SQL commands, enabling secure database interaction, user authentication, and seamless deployment on AWS.
